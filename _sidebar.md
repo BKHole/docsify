@@ -1,3 +1,11 @@
-* [HTML](zh-cn/html.md)
-* [CSS3](zh-cn/css.md)
-* [JavaScript](zh-cn/javascript.md)
+- [html5](html5/)
+- [css3](css3/)
+- [javascript](javascript/)
+- Customization
+
+  - [Configuration](configuration.md)
+  - [Themes](themes.md)
+  - [List of Plugins](plugins.md)
+  - [Write a Plugin](write-a-plugin.md)
+  - [Markdown configuration](markdown.md)
+  - [Language highlighting](language-highlight.md)

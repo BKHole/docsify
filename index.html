@@ -13,10 +13,19 @@
   <script>
     window.$docsify = {
       name: 'Taomi House',
-      repo: '',
-      loadSidebar: true
+      repo: 'https://www.github.com/BKHole/docsify/',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      search: 'auto',
+      search: {
+        placeholder: '搜索',
+        noData: '找不到结果',
+      },
+      // 搜索标题的最大程级, 1 - 6
+      depth: 2
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
