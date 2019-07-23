@@ -1,6 +1,7 @@
 - [html5](html5/)
 - [css3](css3/)
 - [javascript](javascript/)
+- [node](node/)
 - Customization
 
   - [Configuration](configuration.md)
