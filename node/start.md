@@ -301,3 +301,7 @@ http:localhost:3000/user
 ```
 
 输入id、username、age信息，回车，数据库查看该id信息已更新
+
+## 源码
+
+[项目地址](https://github.com/BKHole/node-start-demo)
