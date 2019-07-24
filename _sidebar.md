@@ -2,11 +2,12 @@
 - [css3](css3/)
 - [javascript](javascript/)
 - [node](node/)
-- Customization
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+- git
+
+    - [git常用命令](git/git常用命令.md)
+
+- others
+
+    - [yarn & npm](others/yarn)
+    - [create-react-app](others/create-react-app.md)
