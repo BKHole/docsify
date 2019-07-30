@@ -1,6 +1,6 @@
 # 生命周期
 
-![运行图解]()
+![运行图解](https://raw.githubusercontent.com/BKHole/docsify/master/images/react-lifetime.jpg)
 
 ## 1、getDefaultProps()
 
