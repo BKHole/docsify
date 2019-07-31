@@ -9,12 +9,13 @@
 
 * git
 
-    + [git常用命令](git/git常用命令.md)
+    + [git常用命令](git/git常用命令)
 
 * others
 
     + [yarn & npm](others/yarn)
-    + [create-react-app](others/create-react-app.md)
+    + [create-react-app](others/create-react-app)
+    + [前端好文](others/前端好文)
 
 * [站点备忘录](website)
 
