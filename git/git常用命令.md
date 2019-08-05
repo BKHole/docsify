@@ -13,7 +13,7 @@
 git init // 初始化本地仓库
 ```
 
-#### 创建分支
+## 创建分支
 
 ```
 git checkout -b dev // 创建并切换dev分支
@@ -71,7 +71,9 @@ git remote set-url origin 远程仓库url   // 设置远程仓库地址
 
 ## 查看远程仓库地址
 
-```
+``` code
+git remote -v
+or
 git remote get-url origin
 ```
 
