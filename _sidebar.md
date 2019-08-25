@@ -6,12 +6,14 @@
 
 * git
 
-    + [git常用命令](git/git常用命令.md)
+    + [git常用命令](git/git常用命令)
 
 * others
 
     + [yarn & npm](others/yarn)
-    + [create-react-app](others/create-react-app.md)
+    + [create-react-app](others/create-react-app)
+    + [mac终端命令指南](others/mac终端命令指南)
+    + [element弹出一个message提示](others/element)
 
 * [站点备忘录](website)
 
