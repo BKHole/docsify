@@ -17,6 +17,8 @@
 
     + [yarn & npm](others/yarn)
     + [create-react-app](others/create-react-app)
+    + [mac终端命令指南](others/mac终端命令指南)
+    + [element弹出一个message提示](others/element)
     + [前端好文](others/前端好文)
     + [小程序快捷键指南](others/miniprogram)
 
