@@ -5,7 +5,7 @@
 
      + [yarn & npm](javascript/loop)
 * [node](node/)
-* react
+* [react](react/)
 
     + [react生命周期](react/lifetime)
 
