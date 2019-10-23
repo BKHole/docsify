@@ -9,6 +9,10 @@
 
     + [react生命周期](react/lifetime)
 
+* 小程序
+
+    + [组件-多级列表](miniprogram/component)
+
 * git
 
     + [git常用命令](git/git常用命令)
@@ -23,4 +27,3 @@
     + [小程序快捷键指南](others/miniprogram)
 
 * [站点备忘录](website)
-
