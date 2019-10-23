@@ -36,7 +36,7 @@ this.triggerEvent('customevent', {}, { bubbles: true, composed: true })
 ## 具体实现
 
 * [小程序代码片段](https://developers.weixin.qq.com/s/CBCMWkmf7Gcb)
-* [github地址](https://developers.weixin.qq.com/s/CBCMWkmf7Gcb)
+* [github地址](https://github.com/BKHole/tree-component)
 
 ## 参考
 
