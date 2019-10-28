@@ -3,7 +3,8 @@
 * [css3](css3/)
 * [javascript](javascript/)
 
-     + [yarn & npm](javascript/loop)
+     + [循环及中断](javascript/loop)
+     + [算术运算符](javascript/operator)
 * [node](node/)
 * [react](react/)
 
