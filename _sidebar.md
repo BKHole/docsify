@@ -5,6 +5,7 @@
 
      + [循环及中断](javascript/loop)
      + [算术运算符](javascript/operator)
+     + [闭包](javascript/closure)
 * [node](node/)
 * [react](react/)
 
