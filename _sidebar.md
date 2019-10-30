@@ -1,6 +1,8 @@
 - [html5](html5/)
 
 * [css3](css3/)
+
+    + [层叠z-index](css3/layer)
 * [javascript](javascript/)
 
      + [循环及中断](javascript/loop)
