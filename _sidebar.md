@@ -6,9 +6,10 @@
     - [水平垂直居中](css3/center)
 * [javascript](javascript/)
 
-     + [循环及中断](javascript/loop)
-     + [算术运算符](javascript/operator)
-     + [闭包](javascript/closure)
+    - [循环及中断](javascript/loop)
+    - [算术运算符](javascript/operator)
+    - [闭包](javascript/closure)
+    - [防抖&节流](javascript/debounce)
 
 * [node](node/)
 * [react](react/)
