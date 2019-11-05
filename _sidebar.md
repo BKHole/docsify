@@ -1,4 +1,4 @@
-- [html5](html5/)
+* [html5](html5/)
 
 * [css3](css3/)
 
@@ -25,6 +25,9 @@
     - [git常用命令](git/git常用命令)
     - [SSH key](git/ssh)
 
+* 计算机基础
+* 数据结构和算法
+* 前端工程
 * others
 
     - [yarn & npm](others/yarn)
