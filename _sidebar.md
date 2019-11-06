@@ -1,3 +1,8 @@
+<!--
+ * @Author: lbt
+ * @Date: 2019-11-05 14:31:38
+ * @LastEditTime: 2019-11-06 10:08:06
+ -->
 * [html5](html5/)
 
 * [css3](css3/)
@@ -28,6 +33,9 @@
 * 计算机基础
 * 数据结构和算法
 * 前端工程
+* [技术之外](extend/)
+
+    - [互联网术语](extend/互联网术语)
 * others
 
     - [yarn & npm](others/yarn)
