@@ -1,53 +1,56 @@
 <!--
  * @Author: lbt
  * @Date: 2019-11-05 14:31:38
- * @LastEditTime: 2019-11-14 17:08:25
+ * @LastEditTime: 2020-04-01 16:13:16
  -->
-* [html5](html5/)
 
-* [css3](css3/)
+- [html5](html5/)
 
-    - [层叠z-index](css3/layer)
-    - [水平垂直居中](css3/center)
-* [javascript](javascript/)
+- [css3](css3/)
 
-    - [循环及中断](javascript/loop)
-    - [算术运算符](javascript/operator)
-    - [闭包](javascript/closure)
-    - [防抖&节流](javascript/debounce)
+  - [层叠 z-index](css3/layer)
+  - [水平垂直居中](css3/center)
 
-* [node](node/)
-* [react](react/)
+- [javascript](javascript/)
 
-    - [react生命周期](react/lifetime)
+  - [循环及中断](javascript/loop)
+  - [算术运算符](javascript/operator)
+  - [闭包](javascript/closure)
+  - [防抖&节流](javascript/debounce)
 
-* 小程序
+- [node](node/)
+- [react](react/)
 
-    - [组件-多级列表](miniprogram/component)
+  - [react 生命周期](react/lifetime)
 
-* git
+- 小程序
 
-    - [git常用命令](git/git常用命令)
-    - [SSH key](git/ssh)
+  - [组件-多级列表](miniprogram/component)
 
-* 计算机基础
-* 数据结构和算法
-* 前端工程
-* [技术之外](extend/)
+- git
 
-    - [互联网术语](extend/互联网术语)
-* others
+  - [git 常用命令](git/git常用命令)
+  - [SSH key](git/ssh)
 
-    - [yarn & npm](others/yarn)
-    - [create-react-app](others/create-react-app)
-    - [mac终端命令指南](others/mac终端命令指南)
-    - [element弹出一个message提示](others/element)
-    - [前端好文](others/前端好文)
-    - [小程序快捷键指南](others/miniprogram)
+- 计算机基础
+- 数据结构和算法
+- 前端工程
+- 技术之外
 
-* 翻译
+  - [互联网术语](extend/互联网术语)
 
-    - [react-to-print](translation/print.md)
+- others
 
-* [站点备忘录](website)
+  - [yarn & npm](others/yarn)
+  - [create-react-app](others/create-react-app)
+  - [mac 终端命令指南](others/mac终端命令指南)
+  - [element 弹出一个 message 提示](others/element)
+  - [前端好文](others/前端好文)
+  - [小程序快捷键指南](others/miniprogram)
+  - [github 搜索指南](others/github)
 
+- 翻译
+
+  - [react-to-print](translation/print.md)
+
+- [站点备忘录](website)
