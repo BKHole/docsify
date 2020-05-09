@@ -2,10 +2,10 @@
 
 - 分支名：dev
 - 标签名：v1.0
-- commit版本号：9fceb02
+- commit 版本号：9fceb02
 - 备注信息：'info'
 
-文中例子所出现分支名，标签名均用以上指代，实际项目可自行取名；根据项目实际版本号选定commit版本号和添加备注信息。
+文中例子所出现分支名，标签名均用以上指代，实际项目可自行取名；根据项目实际版本号选定 commit 版本号和添加备注信息。
 
 ## 初始化
 
@@ -71,7 +71,7 @@ git remote set-url origin 远程仓库url   // 设置远程仓库地址
 
 ## 查看远程仓库地址
 
-``` code
+```code
 git remote -v
 or
 git remote get-url origin
@@ -95,6 +95,14 @@ git pull origin master // 拉取远程仓库master分支到本地仓库
 
 ```
 git rm -r --cached .idea // 删除.idea文件夹
+```
+
+## 版本回退
+
+```
+git reset --hard HEAD^ // 回退上个版本
+// 强制 push 更新远程分支
+git push origin master -f
 ```
 
 ## tag
