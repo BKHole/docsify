@@ -105,6 +105,15 @@ git reset --hard HEAD^ // 回退上个版本
 git push origin master -f
 ```
 
+## 删除分支
+
+```
+// 删除本地dev分支
+git branch -d dev
+// 删除远程dev分支
+git push origin --delete dev
+```
+
 ## tag
 
 ```
