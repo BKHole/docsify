@@ -21,6 +21,10 @@ git checkout -b dev // 创建并切换dev分支
 git branch dev // 创建dev分支
 
 git checkout dev // 切换dev分支
+
+git checkout -b dev origin/dev // 创建并切换dev分支同时关联远程dev分支
+
+git push origin dev // 推送本地dev分支到远程dev分支
 ```
 
 ## 查看分支
@@ -51,6 +55,10 @@ git merge dev // 合并dev分支到master分支
 
 ```
 git branch -d dev // 删除本地仓库dev分支
+
+git push origin --delete dev // 删除远程仓库dev分支
+
+git push origin :dev //推送一个空分支到远程分支，其实就相当于删除远程仓库dev分支
 ```
 
 ## 关联远程仓库
