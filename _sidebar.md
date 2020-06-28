@@ -1,9 +1,3 @@
-<!--
- * @Author: lbt
- * @Date: 2019-11-05 14:31:38
- * @LastEditTime: 2020-06-18 14:07:29
- -->
-
 - [基础](basic/)
 
   - [css?](basic/css-questions)
@@ -16,6 +10,7 @@
 
   - [层叠 z-index](css3/layer)
   - [水平垂直居中](css3/center)
+  - [flex 属性值](css3/flex)
 
 - [javascript](javascript/)
 
