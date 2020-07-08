@@ -49,6 +49,7 @@
   - [前端好文](others/前端好文)
   - [小程序快捷键指南](others/miniprogram)
   - [github 搜索指南](others/github)
+  - [docker 指令](others/docker)
 
 - 翻译
 
