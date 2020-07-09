@@ -1,6 +1,5 @@
 language: node_js
-node_js:
-  - "14"
+
 services:
   - docker
 
@@ -8,7 +7,6 @@ services:
 #   - npm install
 
 script:
-  - npm run build
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - docker build -t lbt1332051236/docsify:latest .
   - docker push lbt1332051236/docsify
