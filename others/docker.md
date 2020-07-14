@@ -44,3 +44,13 @@ docker run -e VIRTUAL_HOST=abc.com test
 
 - e：环境指令标记
 - VIRTUAL_HOST：域名变量
+
+## nginx
+
+docker 使用 nginx 时，可以将以下目录映射本地目录，方便编辑
+
+```
+:/var/log/nginx #nginx日志目录
+:/etc/nginx #nginx配置目录
+:/usr/share/nginx #项目目录
+```
