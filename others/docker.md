@@ -1,5 +1,35 @@
 # docker 指令
 
+## 启动 docker 服务
+
+```
+systemctl start docker
+```
+
+## 启动所有容器
+
+```
+docker start $(docker ps -a | awk '{ print $1}' | tail -n +2)
+```
+
+## 关闭所有容器
+
+```
+docker stop $(docker ps -a | awk '{ print $1}' | tail -n +2)
+```
+
+## 删除所有容器
+
+```
+docker rm $(docker ps -a | awk '{ print $1}' | tail -n +2)
+```
+
+## 删除所有镜像
+
+```
+docker rmi $(docker p_w_picpaths | awk '{print $3}' |tail -n +2)
+```
+
 ## 创建 docker 镜像
 
 ```
@@ -44,3 +74,13 @@ docker run -e VIRTUAL_HOST=abc.com test
 
 - e：环境指令标记
 - VIRTUAL_HOST：域名变量
+
+## nginx
+
+docker 使用 nginx 时，可以将以下目录映射本地目录，方便编辑
+
+```
+:/var/log/nginx #nginx日志目录
+:/etc/nginx #nginx配置目录
+:/usr/share/nginx #项目目录
+```
