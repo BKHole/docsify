@@ -34,7 +34,7 @@ cat github_rsa.pub
 // 查看gitlab公钥
 cat gitlab_rsa.pub
 // 查看gitee公钥
-cat github_rsa.pub
+cat gitee_rsa.pub
 ```
 
 将得到的公钥分别复制到对应账号 SSH 设置中
