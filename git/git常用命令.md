@@ -1,9 +1,9 @@
 ## 说明
 
-- 分支名：dev
-- 标签名：v1.0
-- commit 版本号：9fceb02
-- 备注信息：'info'
+-   分支名：dev
+-   标签名：v1.0
+-   commit 版本号：9fceb02
+-   备注信息：'info'
 
 文中例子所出现分支名，标签名均用以上指代，实际项目可自行取名；根据项目实际版本号选定 commit 版本号和添加备注信息。
 
@@ -111,6 +111,13 @@ git rm -r --cached .idea // 删除.idea文件夹
 git reset --hard HEAD^ // 回退上个版本
 // 强制 push 更新远程分支
 git push origin master -f
+```
+
+## 撤销远程合并
+
+```
+// -m 选项接收的参数是一个数字，数字取值为 1 和 2，也就是 Merge 行里面列出来的第一个还是第二个。
+git revert -m 1 commitId
 ```
 
 ## tag
